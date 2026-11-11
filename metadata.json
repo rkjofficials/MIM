@@ -1,0 +1,6 @@
+{
+  "name": "LinearIT: Infrastructure & Vendor Ops",
+  "description": "Offline-first vendor, server infrastructure, and asset management system with automated maintenance and license renewal alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
